@@ -20,3 +20,10 @@ git clone https://github.com/elhigu/cmake-findopencl.git
 mkdir build
 cmake ../cmake-findopencl
 ```
+
+or in Windows you would probably use Visual Studio...
+
+```
+cmake -G "Visual Studio 12" ../cmake-findopencl
+cmake -G "Visual Studio 12 Win64" ../cmake-findopencl
+```
