@@ -18,6 +18,7 @@ I've been developing this mostly on Windows and OSX so if there are any patches 
 ```
 git clone https://github.com/elhigu/cmake-findopencl.git
 mkdir build
+cd build
 cmake ../cmake-findopencl
 ```
 
