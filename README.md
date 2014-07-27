@@ -13,7 +13,7 @@ Also OSX implemantations usually did find only system OpenCL libraries and didn'
 
 I've been developing this mostly on Windows and OSX so if there are any patches to make it work better in Linux, please send pull request. All contribution would be very much appreciated. 
 
-*Update:* Looks like in near future releases of cmake it will have official FindOpenCL.cmake macro so this will be obsolete...
+**Update:** Looks like some future release of cmake will have more elegantly implemented official FindOpenCL.cmake (http://cmake.org/gitweb?p=cmake.git;a=blob_plain;f=Modules/FindOpenCL.cmake;hb=HEAD) macro so this will be obsolete.
 
 ## Try it out
 
